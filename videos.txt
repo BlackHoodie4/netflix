@@ -1,0 +1,61 @@
+p,00001,Pelicula 1,120,accion
+p,00002,Pelicula 2,90,drama
+p,00003,Pelicula 3,105,misterio
+c,00001-S01E01,Captulo 1,40,drama,Serie 1,1
+c,00001-S01E02,Capitulo 2,35,accion,Serie 1,2
+c,00001-S01E03,Capitulo 3,42,misterio,Serie 1,3
+p,00004,Pelicula 4,115,drama
+c,00002-S01E01,Capitulo 1,50,accion,Serie 2,1
+c,00002-S01E02,Capitulo 2,38,misterio,Serie 2,2
+c,00002-S01E03,Capitulo 3,47,drama,Serie 2,3
+p,00005,Pelicula 5,92,misterio
+p,00006,Pelicula 6,128,accion
+c,00003-S01E01,Capitulo 1,44,drama,Serie 3,1
+c,00003-S01E02,Capitulo 2,41,misterio,Serie 3,2
+c,00003-S01E03,Capitulo 3,36,accion,Serie 3,3
+p,00007,Pelicula 7,105,drama
+p,00008,Pelicula 8,88,accion
+c,00004-S01E01,Capitulo 1,33,misterio,Serie 4,1
+c,00004-S01E02,Capitulo 2,39,drama,Serie 4,2
+c,00004-S01E03,Capitulo 3,45,accion,Serie 4,3
+p,00009,Pelicula 9,99,misterio
+p,00010,Pelicula 10,115,accion
+c,00005-S01E01,Capitulo 1,48,drama,Serie 5,1
+c,00005-S01E02,Capitulo 2,37,misterio,Serie 5,2
+c,00005-S01E03,Capitulo 3,43,accion,Serie 5,3
+p,00011,Pelicula 11,102,drama
+p,00012,Pelicula 12,91,accion
+c,00006-S01E01,Capitulo 1,42,misterio,Serie 6,1
+c,00006-S01E02,Capitulo 2,39,drama,Serie 6,2
+c,00006-S01E03,Capitulo 3,36,accion,Serie 6,3
+p,00013,Pelicula 13,110,misterio
+p,00014,Pelicula 14,88,accion
+c,00007-S01E01,Capitulo 1,35,drama,Serie 7,1
+c,00007-S01E02,Capitulo 2,43,misterio,Serie 7,2
+c,00007-S01E03,Capitulo 3,38,accion,Serie 7,3
+p,00015,Pelicula 15,95,drama
+p,00016,Pelicula 16,121,accion
+c,00008-S01E01,Capitulo 1,47,misterio,Serie 8,1
+c,00008-S01E02,Capitulo 2,39,drama,Serie 8,2
+c,00008-S01E03,Capitulo 3,44,accion,Serie 8,3
+p,00017,Pelicula 17,100,misterio
+p,00018,Pelicula 18,86,accion
+c,00009-S01E01,Capitulo 1,38,drama,Serie 9,1
+c,00009-S01E02,Capitulo 2,44,misterio,Serie 9,2
+c,00009-S01E03,Capitulo 3,42,accion,Serie 9,3
+p,00019,Pelicula 19,96,drama
+p,00020,Pelicula 20,112,accion
+c,00010-S01E01,Capitulo 1,43,misterio,Serie 10,1
+c,00010-S01E02,Capitulo 2,35,drama,Serie 10,2
+c,00010-S01E03,Capitulo 3,41,accion,Serie 10,3
+p,00021,Pelicula 21,118,misterio
+p,00022,Pelicula 22,83,accion
+c,00011-S01E01,Capitulo 1,39,drama,Serie 11,1
+c,00011-S01E02,Capitulo 2,46,misterio,Serie 11,2
+c,00011-S01E03,Capitulo 3,37,accion,Serie 11,3
+p,00023,Pelicula 23,105,drama
+p,00024,Pelicula 24,91,accion
+c,00012-S01E01,Capitulo 1,40,misterio,Serie 12,1
+c,00012-S01E02,Capitulo 2,37,drama,Serie 12,2
+c,00012-S01E03,Capitulo 3,44,accion,Serie 12,3
+p,00025,Pelicula 25,108,misterio
